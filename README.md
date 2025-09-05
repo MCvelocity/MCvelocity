@@ -19,10 +19,10 @@
 
 ### 🌐 Connect with me  
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank">
+  <a href="www.linkedin.com/in/rupankar-pal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/your-insta" target="blank">
+  <a href="https://www.instagram.com/mc_velocity007/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://facebook.com/your-fb" target="blank">
