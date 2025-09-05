@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MCvelocity&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/MCvelocity?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/MCvelocity?label=Stars&style=for-the-badge&color=36BCF7" alt="GitHub Stars" />
 </p>
 
 ---
