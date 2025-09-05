@@ -1,50 +1,77 @@
-<h1 align="center">Hi 👋, I'm MCvelocity</h1>
-<h3 align="center">🚀 Blockchain Developer & Robotics Enthusiast | Engineer in Progress</h3>
+<!-- Header with Typing Effect -->
+<h1 align="center">
+  Hi 👋, I'm <a href="https://github.com/MCvelocity" target="_blank">MCvelocity</a>
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=🚀+Blockchain+Developer;🤖+Robotics+Enthusiast;💡+Engineer+in+Progress;Always+Learning+%26+Building" alt="Typing SVG" />
+</h3>
 
+---
+
+<!-- Profile Counters -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MCvelocity&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/MCvelocity?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/MCvelocity?label=Total%20Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=MCvelocity&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/MCvelocity?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/MCvelocity?label=Stars&style=for-the-badge&color=36BCF7" alt="GitHub Stars" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 I’m currently exploring **Blockchain Development & Robotics**  
-- 🌱 I’m learning **C, Python, and Smart Contract Development**  
+- 🔭 Exploring **Blockchain Development & Robotics**  
+- 🌱 Learning **C, Python, and Smart Contract Development**  
 - 💡 Passionate about **AI + Robotics + Blockchain** synergy  
 - 📫 Reach me at: **rupankarpal77@gmail.com**  
 
 ---
 
-### 🌐 Connect with me  
-<p align="left">
-  <a href="www.linkedin.com/in/rupankar-pal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupankar-pal/" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/mc_velocity007/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40" width="40" />
   </a>
   <a href="https://facebook.com/your-fb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" height="40" width="40" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MCvelocity&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCvelocity&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MCvelocity&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCvelocity&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MCvelocity&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MCvelocity&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-✨ _“Engineering is the art of turning imagination into reality.”_ ✨
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MCvelocity&theme=react-dark&bg_color=0D1117&hide_border=true&line=36BCF7&point=FFFFFF" alt="Activity Graph" />
+</p>
+
+---
+
+### 🚀 Featured Repositories  
+<p align="center">
+  <a href="https://github.com/MCvelocity/your-top-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=your-top-project&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/MCvelocity/another-cool-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=another-cool-project&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+✨ _“Engineering is the art of turning imagination into reality.”_ ✨  
