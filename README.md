@@ -1,10 +1,10 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/2qgZjsd/glowing-banner.gif" alt="MCvelocity Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm MCvelocity</h1>
-<h3 align="center">🚀 Blockchain Developer & Robotics Enthusiast | Engineer in Progress</h3>
+<!-- Header with Typing Effect -->
+<h1 align="center">
+  Hi 👋, I'm <a href="https://github.com/MCvelocity" target="_blank">MCvelocity</a>
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=600&lines=🚀+Blockchain+Developer;🤖+Robotics+Enthusiast;💡+Engineer+in+Progress;Always+Learning+%26+Building" alt="Typing SVG" />
+</h3>
 
 ---
 
@@ -63,29 +63,13 @@
 ---
 
 ### 🚀 Featured Repositories  
-
-#### 🩺 Medical-Assistant_ChatBot  
-A smart chatbot designed to provide **basic medical assistance**, health-related FAQs, and quick symptom guidance. Built using **Python + NLP**.  
-
-<p>
+<p align="center">
   <a href="https://github.com/MCvelocity/Medical-Assistant_ChatBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=Medical-Assistant_ChatBot&theme=radical&hide_border=true" />
   </a>
-</p>
-
-#### 🐍 Python-Project  
-A collection of fun **Python mini-projects**, including games, automation tools, and beginner-to-advanced coding challenges.  
-
-<p>
   <a href="https://github.com/MCvelocity/python-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=python-project&theme=radical&hide_border=true" />
   </a>
-</p>
-
-#### 🌐 Multipages-Website-Design  
-A **responsive multi-page website** template with a clean UI/UX, built using **HTML, CSS, and JavaScript**. Perfect for modern business or portfolio sites.  
-
-<p>
   <a href="https://github.com/MCvelocity/Multipages-website-Design">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=Multipages-website-Design&theme=radical&hide_border=true" />
   </a>
