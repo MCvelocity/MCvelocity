@@ -64,11 +64,14 @@
 
 ### 🚀 Featured Repositories  
 <p align="center">
-  <a href="https://github.com/MCvelocity/your-top-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=your-top-project&theme=radical&hide_border=true" />
+  <a href="https://github.com/MCvelocity/Medical-Assistant_ChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=Medical-Assistant_ChatBot&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/MCvelocity/another-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=another-cool-project&theme=radical&hide_border=true" />
+  <a href="https://github.com/MCvelocity/python-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=python-project&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/MCvelocity/Multipages-website-Design">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MCvelocity&repo=Multipages-website-Design&theme=radical&hide_border=true" />
   </a>
 </p>
 
