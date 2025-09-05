@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MCvelocity&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/MCvelocity?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/MCvelocity?label=Stars&style=for-the-badge&color=36BCF7" alt="GitHub Stars" />
 </p>
 
 ---
@@ -31,9 +32,6 @@
   </a>
   <a href="https://www.instagram.com/mc_velocity007/" target="blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" height="40" width="40" />
-  </a>
-  <a href="https://facebook.com/your-fb" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" height="40" width="40" />
   </a>
 </p>
 
